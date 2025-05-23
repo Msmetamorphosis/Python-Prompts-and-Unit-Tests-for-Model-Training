@@ -72,4 +72,4 @@ The goal was to build LLM behaviors that mimic experienced Python developers’ 
 
 If you're building coding copilots, educational AI tools, or want to integrate unit test generation into your LLM workflows, I’d love to collaborate or customize datasets like these further.
 
-> All files are original work used in professional LLM training contexts. Feel free to fork, use, or adapt them as needed.
+> All files are my original work used in professional LLM training contexts. Feel free to fork, use, or adapt them as needed.
